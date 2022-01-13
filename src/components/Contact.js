@@ -1,12 +1,12 @@
 import React from "react";
-import "./Suv.css";
+import "./Contact";
 import Header from "./Header";
 import Footer from "./Footer";
 
-const Suv = () => {
+const Contact = () => {
     
     return (
-        <div className="suvPage">
+        <div className="contactPage">
         <Header />
 
         
@@ -15,4 +15,4 @@ const Suv = () => {
     );
 };
 
-export default Suv;
+export default Contact;

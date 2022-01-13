@@ -29,7 +29,7 @@ const Header = () => {
                     <a href="/suv" className="navbar_link">SUV</a>
                 </li>
                 <li className="navbar_item">
-                    <a href="/about" className="navbar_link">Qui sommes-nous?</a>
+                    <a href="/contact" className="navbar_link">Contact</a>
                 </li>
             </ul>
 
