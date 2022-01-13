@@ -10,8 +10,12 @@ const App = () => {
   return (
     <div className="mainPage">
     <Header />
+    <main className="title">
+      <h1 className="title1">AUTOSHOP</h1>
+      <h2 className="title2">Trouvez votre nouvelle voiture d'occasion</h2>
+    </main>
     <ImageSlider slides={SliderData} />
-    
+
     </div>
   );
 };
